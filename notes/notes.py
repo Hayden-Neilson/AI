@@ -2,3 +2,5 @@
 # and the differ btween q learning
 # learned about the temporal difference
 # learned about how regular q learning is not enough to do complex things
+
+# learned more with the way a ai learns through trial and error
